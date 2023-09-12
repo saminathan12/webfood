@@ -1,0 +1,45 @@
+#button{
+    margin:8px 8px ;
+    text-align: right;
+    background-color: rgb(6, 82, 168);
+    padding: 5px 5px;
+    border-radius: 8px;
+}
+body{
+    background-color: rgb(73, 29, 0);
+}
+.but{
+    margin: 0%;
+    padding: 8px 8px;
+    background-color: rgb(240, 17, 65);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.but:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(212, 209, 14);
+}
+#title{
+    margin: 8px 8px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: black;
+    color: blueviolet;
+}
+#title:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(95, 8, 145);
+}
+#ol{
+    font-size: 24px;
+    color: antiquewhite;
+}
+.food{
+    list-style-type: disc;
+    font-size: 24px;
+    color: azure;
+}
+.dish{
+    color: cyan;
+}
